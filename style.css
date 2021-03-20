@@ -1,0 +1,13 @@
+body {
+  min-height: 2000;
+}
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #e2edff;
+}
+#education {
+  background-color: #a2d9ff;
+}
+section {
+  padding-top: 5rem;
+}
